@@ -1,0 +1,6 @@
+C:\Users\richc\RiderProjects\Hubtel.Kafta.Test\obj\Debug\netcoreapp3.1\Hubtel.Kafta.Test.csprojAssemblyReference.cache
+C:\Users\richc\RiderProjects\Hubtel.Kafta.Test\obj\Debug\netcoreapp3.1\staticwebassets\Hubtel.Kafta.Test.StaticWebAssets.Manifest.cache
+C:\Users\richc\RiderProjects\Hubtel.Kafta.Test\obj\Debug\netcoreapp3.1\staticwebassets\Hubtel.Kafta.Test.StaticWebAssets.xml
+C:\Users\richc\RiderProjects\Hubtel.Kafta.Test\obj\Debug\netcoreapp3.1\Hubtel.Kafta.Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\richc\RiderProjects\Hubtel.Kafta.Test\obj\Debug\netcoreapp3.1\Hubtel.Kafta.Test.AssemblyInfoInputs.cache
+C:\Users\richc\RiderProjects\Hubtel.Kafta.Test\obj\Debug\netcoreapp3.1\Hubtel.Kafta.Test.AssemblyInfo.cs

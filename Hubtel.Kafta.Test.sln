@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubtel.Kafta.Test", "Hubtel.Kafta.Test.csproj", "{237CCE94-F1EB-439F-BF5D-C9146DD538DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaProducerClient", "KafkaProducerClient\KafkaProducerClient.csproj", "{466282A6-135C-427F-8817-0317CA25BB26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaConsumerClient", "KafkaConsumerClient\KafkaConsumerClient.csproj", "{420ACA7F-7BC4-4FC8-B1AF-FEE4C2E84395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237CCE94-F1EB-439F-BF5D-C9146DD538DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237CCE94-F1EB-439F-BF5D-C9146DD538DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237CCE94-F1EB-439F-BF5D-C9146DD538DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237CCE94-F1EB-439F-BF5D-C9146DD538DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466282A6-135C-427F-8817-0317CA25BB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466282A6-135C-427F-8817-0317CA25BB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466282A6-135C-427F-8817-0317CA25BB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466282A6-135C-427F-8817-0317CA25BB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420ACA7F-7BC4-4FC8-B1AF-FEE4C2E84395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420ACA7F-7BC4-4FC8-B1AF-FEE4C2E84395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420ACA7F-7BC4-4FC8-B1AF-FEE4C2E84395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420ACA7F-7BC4-4FC8-B1AF-FEE4C2E84395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

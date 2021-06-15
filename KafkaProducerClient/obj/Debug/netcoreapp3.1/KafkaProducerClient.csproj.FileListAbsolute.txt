@@ -1,0 +1,3 @@
+C:\Users\richc\RiderProjects\Hubtel.Kafta.Test\KafkaProducerClient\obj\Debug\netcoreapp3.1\KafkaProducerClient.csprojAssemblyReference.cache
+C:\Users\richc\RiderProjects\Hubtel.Kafta.Test\KafkaProducerClient\obj\Debug\netcoreapp3.1\KafkaProducerClient.AssemblyInfoInputs.cache
+C:\Users\richc\RiderProjects\Hubtel.Kafta.Test\KafkaProducerClient\obj\Debug\netcoreapp3.1\KafkaProducerClient.AssemblyInfo.cs
