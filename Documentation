@@ -1,0 +1,15 @@
+Project tested locally and runs perfectly as producer is able to send messages for consumer to recieve and print on console. 
+Project consist of 2 console applications (KafkaProducerClient and KafkaConsumerClient).
+
+Can also be tested on postman while server is running for an api response.
+
+ASP.NET Core 3.1
+IDE: Rider
+Name of Topic: temp-topic-Kafka-Topic-1 and running on localhost:9092
+POST URL: https://localhost:5001/kafka/send?topic=temp-topic-Kafka-Topic-1
+JSON object to be passed:
+{
+    "Id":1,
+    "Name":"Richard",
+    "Message":"Test Notification"    
+}
